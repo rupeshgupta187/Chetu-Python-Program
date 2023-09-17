@@ -1,5 +1,5 @@
 def prodDigit(num):
-
+    
     prod=1
     while num>0:
         digit=num%10
