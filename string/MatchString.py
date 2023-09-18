@@ -1,11 +1,11 @@
-# string=input("enter a string : ")
-# s=string.split()[::-1]
-# l=[]
-# for x in s:
-#     l.append(x)
-# print(" ".join(l))
+string=input("enter a string : ")
+s=string.split()[::-1]
+l=[]
+for x in s:
+    l.append(x)
+print(" ".join(l))
 
-####################################################
+###################################################
 
 def find_unmatched_characters(str1, str2):
     unmatched_characters = []
