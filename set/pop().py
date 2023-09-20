@@ -9,6 +9,5 @@ try:
 except NameError:
     print("set is deleted by programmer in last operation")
 
-
 s2=set([1,2,3,"ram", "raja","rupesh"])
 print(s2)
