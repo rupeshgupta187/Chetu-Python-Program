@@ -15,7 +15,7 @@ def calculate_multiply(number):
     tot=1
     for x in number:
         tot*=x
-        return tot
+    return tot
 
 x=calculate_multiply((10,20,30,40,50))
 print(x)
