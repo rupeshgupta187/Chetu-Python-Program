@@ -8,7 +8,7 @@ if (n>=1):
     print(sum)
 else:
     print("enter value 1 to n")
-
+############################################################
 sum1=0
 number=1
 while number<n+1:
@@ -22,3 +22,4 @@ for x in range(1,6):
     print(f"{current} + {x**3} =",end="")
     print(sum)
     current=sum
+###############################################################
