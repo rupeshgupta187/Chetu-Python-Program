@@ -4,6 +4,7 @@ class student:
         self.m1=m1
         self.m2=m2
         self.m3=m3
+    
     def average(self):
         return (self.m1+self.m2+self.m3)/3
 s1=student(12,34,54)
